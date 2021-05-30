@@ -1,0 +1,8 @@
+edu\vinaenter\util\DateUtil.class
+edu\vinaenter\AppConfig.class
+edu\vinaenter\dao\FootballDAO.class
+edu\vinaenter\controllers\auth\AuthController.class
+edu\vinaenter\controllers\FootballController.class
+edu\vinaenter\models\Football.class
+edu\vinaenter\service\FootballService.class
+edu\vinaenter\ApplicationInitializer.class

@@ -1,0 +1,11 @@
+
+label.error {
+		display: inline-block;
+		color:red;
+		width: 300px;
+		font-size: 14px;
+		margin-left: 5px
+	}
+.err{
+		color: red;
+	}
